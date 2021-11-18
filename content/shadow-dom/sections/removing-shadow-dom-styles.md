@@ -166,7 +166,8 @@ After:
 ```less
 atom-text-editor .my-class.my-class {
   color: hotpink;
-}
+}push
+
 ```
 
 
